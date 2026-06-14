@@ -1,4 +1,6 @@
 <img width="930" height="657" alt="Screenshot 2026-06-03 113433" src="https://github.com/user-attachments/assets/72375b44-c1d7-4dde-b549-67bd3e1cb026" />
+
+
 # 🛡️ CFSS Global Internship 2026 — SOC Operations & Threat Detection Mastery
 
 **Intern:** Israel Mbiyavanga David  
