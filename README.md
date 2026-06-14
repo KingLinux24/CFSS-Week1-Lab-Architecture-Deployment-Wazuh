@@ -1,4 +1,5 @@
-<img width="930" height="657" alt="Screenshot 2026-06-03 113433" src="https://github.com/user-attachments/assets/72375b44-c1d7-4dde-b549-67bd3e1cb026" />
+<img width="1664" height="1008" alt="Screenshot 2026-06-03 113028" src="https://github.com/user-attachments/assets/eb2c2cbf-66eb-40af-aa8b-37d6be79ed35" />
+
 
 
 # 🛡️ CFSS Global Internship 2026 — SOC Operations & Threat Detection Mastery
