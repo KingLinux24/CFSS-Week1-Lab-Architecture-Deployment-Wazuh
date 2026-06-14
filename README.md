@@ -1,3 +1,4 @@
+<img width="930" height="657" alt="Screenshot 2026-06-03 113433" src="https://github.com/user-attachments/assets/72375b44-c1d7-4dde-b549-67bd3e1cb026" />
 # 🛡️ CFSS Global Internship 2026 — SOC Operations & Threat Detection Mastery
 
 **Intern:** Israel Mbiyavanga David  
@@ -47,7 +48,8 @@ ip a
 
 **Screenshot 1 — Server IP confirmed:**
 
-![Server IP](screenshots/01_server_ip.png)
+<img width="930" height="657" alt="Screenshot 2026-06-03 113433" src="https://github.com/user-attachments/assets/f384febf-7cc9-4f39-b6cf-c5497ca10979" />
+
 
 #### Step 3 — Validate Services & Dashboard
 
@@ -62,11 +64,13 @@ sudo systemctl status wazuh-indexer     # Active: running
 
 **Screenshot 2 — Services running:**
 
-![Services Status](screenshots/04_services_status.png)
+<img width="1376" height="683" alt="Screenshot 2026-06-03 140021" src="https://github.com/user-attachments/assets/c1eda542-b5f6-4ec8-b937-41db81a6dc15" />
+
 
 **Screenshot 3 — API Connection Online:**
 
-![API Online](screenshots/05_api_online.png)
+<img width="1902" height="861" alt="Screenshot 2026-06-03 141911" src="https://github.com/user-attachments/assets/c96e4322-9410-46e0-839f-133194b8d26a" />
+
 
 #### Step 4 — Enroll Wazuh Agent on Windows 10 VM
 
@@ -82,7 +86,7 @@ NET START WazuhSvc
 
 **Screenshot 4 — Agent deployment wizard:**
 
-![Agent Deploy](screenshots/06_agent_deploy.png)
+<img width="1809" height="794" alt="Screenshot 2026-06-03 143219" src="https://github.com/user-attachments/assets/4ef4d4c4-c3cd-4ef8-a398-274b43d6bc2b" />
 
 ---
 
@@ -90,7 +94,8 @@ NET START WazuhSvc
 
 **Screenshot 5 — FINAL RESULT: Wazuh Dashboard showing 1 Active Agent:**
 
-![1 Agent Active Dashboard](screenshots/03_agent_active_dashboard.png)
+<img width="1903" height="656" alt="Screenshot 2026-06-03 143609" src="https://github.com/user-attachments/assets/a0ea86c1-8b7c-4b24-8356-a4e12d40e1e9" />
+
 
 | Field | Value |
 |-------|-------|
